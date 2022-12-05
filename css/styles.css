@@ -1,0 +1,172 @@
+
+/***************************************HTML TAG CSS ********************************/
+
+body
+    {
+        margin: 0;
+        text-align: center;
+    }
+
+/*div
+    {
+        margin: 0;
+        background-color: #A6B1E1;
+    }
+*/
+h1
+    {
+        margin-top: 0;
+        padding-top: 60px;
+        color: #3F0071;
+        font-family: 'Berkshire Swash', cursive;
+        font-size: 3.3rem;
+        line-height: 2;
+    }
+
+h2
+    {
+        font-family: 'Acme', sans-serif;
+        font-size: 2.2rem;
+        color:#810CA8;
+        font-weight: normal;
+    }
+
+h3
+    {
+        font-family: 'Acme', sans-serif;
+        font-size: 1.5rem;
+        color:#C147E9;
+    }
+
+p{
+    font-family: 'Asap Condensed', sans-serif;
+ 
+}
+
+hr{
+    border-style: dotted;
+    border-width: 10px 0 0 0;
+    width: 8%;
+    color: #D989B5;
+}
+
+a{
+    font-family: 'Acme', sans-serif;
+    font-size: 1.22rem; 
+}
+
+a:hover{
+    color: white;
+}
+/**********************************CLASS CSS ELEMENTS*******************************/
+
+.profile{
+    margin: 70px;
+}
+
+.skills{
+    margin: 70px;
+}
+
+.contact-me{
+    margin:70px;
+}
+
+.top
+{
+    background-color: #A6B1E1;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.middle
+{
+   
+    
+}
+
+.bottom
+{
+    background-color: #A6B1E1;
+    padding: 40px;
+    
+}
+
+
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.chilli-pic{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.com-pic{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile-pic{
+    width:12%;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffff;
+    font-size: 20px;
+    background: #C147E9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #C060A1;
+    text-decoration: none;
+  }
+
+  .footer-link{
+    color:#810CA8;
+    text-decoration: none;
+
+  }
+
+  .footer-p{
+    color:white;
+  }
+
+  .l1{
+    margin: 20px;
+  }
+
+  .l2{
+    margin: 20px;
+  }
+
+  .l3{
+    margin: 20px;
+  }
